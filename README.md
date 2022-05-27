@@ -1,4 +1,4 @@
-# COMO COLOCOAR O REPOSITÓRIO NO GITHUB
+# COMO COLOCAR O REPOSITÓRIO NO GITHUB
 ## - Abra o git;
 ## - Usando 'mkdir' crie uma pasta;
 ## - Entre na pasta usando 'cd "nome da pasta"'; 
@@ -12,4 +12,5 @@
 ## - Volte ao git;
 ## - Vamos adicionar a origem digitando 'git remote add "origin" "link do repositório"';
 ## - Agora digite 'git push "origin" master'
-## - Pronto seu repositório está no gitgub.
+## - Pronto seu repositório está no github.
+
